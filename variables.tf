@@ -1,4 +1,4 @@
-# Yes I cpied this
+# Yes I cpiedff this
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
 
