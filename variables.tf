@@ -1,4 +1,3 @@
-# Yes I cpiedff this
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
 
@@ -14,5 +13,5 @@ variable "instance_type" {
 
 variable "instance_name" {
   description = "EC2 instance name"
-  default     = "My Other Great Instance"
+  default     = "myInstance"
 }
