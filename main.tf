@@ -28,4 +28,5 @@ resource "aws_instance" "ubuntu" {
   tags = {
     Name = "other instance"
   }
+{{ cookiecutter.instance_name }}
 }
